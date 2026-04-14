@@ -1,1 +1,8 @@
 # Proyecto-Clinica
+
+Integrantes Proyecto 
+
+No. de Cuenta		Estudiante 		        Username
+0801200514740		Axel Sanchez		    axelsanchez-2sbr
+0801200612802		Lizzie Ortiz		    lsofiaort  
+0801200605500		Mauricio Maradiaga	    Mauricio1820
